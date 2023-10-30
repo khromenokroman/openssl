@@ -19,7 +19,6 @@ jobs:
       - run: sudo apt install -y cmake
       - run: pwd
       - run: ls -la
-
 #      - name: Create Release
 #        id: create_release
 #        uses: actions/create-release@v1
